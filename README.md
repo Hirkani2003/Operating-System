@@ -1,10 +1,10 @@
 # Operating System (OS)
 
-This repository contains bash scripts for different logical programs and C++ code for Page Replacement and Scheduling Algorithms.
+This repository contains bash scripts for different logical programs and C++ code for Page Replacement, Synchronization and Scheduling Algorithms.
 
 ## Description
 
-This repository contains C++ programs for various scheduling and page replacement algorithms. Each algorithm has its own file and contains a bash script that compiles and runs the program. 
+This repository contains C++ programs for various scheduling, synchronization and page replacement algorithms. Each algorithm has its own file that compiles and runs the program. 
 
 ## Algorithms
 The following algorithms are included in this repository:
@@ -17,6 +17,9 @@ The following algorithms are included in this repository:
 - Shortest Job First (SJF)
 - Round Robin (RR)
 - Priority Scheduling
-
+## Synchornization Problems
+- Producer Consumer
+- Reader Writer
+- Dining Philosopher
 ### Bash Programs
 
